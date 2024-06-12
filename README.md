@@ -1,5 +1,5 @@
 
-![Profile Banner](https://link-to-your-profile-banner-image.com)
+![Profile Banner](bannergit.png)
 
 ## About Me
 
@@ -23,7 +23,6 @@ I am committed to uploading one new project every week! Stay tuned for innovativ
 ## Skills
 
 Here are some of the technologies and languages I work with:
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,6 +48,7 @@ Here are some of the technologies and languages I work with:
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 ## Connect with Me
@@ -57,10 +57,9 @@ Let's connect and collaborate! You can find me on various platforms:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paresh-suthar-b36741250)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithStudent2004)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pareshsutharr/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pareshsutharr)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch.
 
----
-
-![Footer Image](https://link-to-your-footer-image.com)
+- pareshsutharr@gmail.com
